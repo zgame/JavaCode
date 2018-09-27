@@ -13,14 +13,15 @@ public class Main {
         out.println("---------run------------");
 
 
-        BinarySearch.binarySearch2();
-        BinarySearch.binarySearch();
-        mtest.test1();
-        SelectionSort.Sort();
-        InsertSort.Sort();
-        ShellSort.main(null);
-        MergeSort.Main();
-        QuickSort.Main();
+//        BinarySearch.binarySearch2();
+//        BinarySearch.binarySearch();
+//        mtest.test1();
+//        SelectionSort.Sort();
+//        InsertSort.Sort();
+//        ShellSort.main(null);
+//        MergeSort.Main();
+//        QuickSort.Main();
+        HeapSort.Main();
     }
 }
 
