@@ -21,7 +21,8 @@ public class Main {
 //        ShellSort.main(null);
 //        MergeSort.Main();
 //        QuickSort.Main();
-        HeapSort.Main();
+//        HeapSort.Main();
+        StackTest.Main();
     }
 }
 
