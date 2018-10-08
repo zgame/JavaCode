@@ -27,7 +27,7 @@ public class StackTest {
     private static int getAndRemoveLastElement(Stack<Integer> a){
         int result = a.pop();
         if (a.isEmpty()){
-            System.out.println(result);
+            System.out.println("is empty "+result);
 //            a.push(result);
             return result;
         }else {
