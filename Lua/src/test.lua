@@ -5,3 +5,10 @@
 ---
 
 print("3333333333")
+
+--
+--function double2(inss)
+--    return inss*100
+--end
+--
+--print(double2(9))
