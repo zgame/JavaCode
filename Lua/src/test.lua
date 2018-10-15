@@ -4,11 +4,12 @@
 --- DateTime: 2018/4/11 15:45
 ---
 
-print("3333333333")
 
---
---function double2(inss)
---    return inss*100
---end
---
---print(double2(9))
+package.path = package.path .. ';protobuf/?.lua'
+package.cpath = package.cpath .. ';protobuf/?.so'
+
+
+require ("protobuf.protobuf")
+
+
+require("Protocol.protocol_test")
