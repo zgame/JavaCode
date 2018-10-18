@@ -6,10 +6,12 @@
 
 
 package.path = package.path .. ';protobuf/?.lua'
-package.cpath = package.cpath .. ';protobuf/?.so'
+package.cpath = package.cpath .. ';protobuf/?.dll'
 
+--local a = package.loadlib("pb.dll", "luaopen_pb");
+--a()
+--require ("protobuf.protobuf")
+package.path = "./Protocol/?.lua;"..package.path
+package.path = "./Protocol/build/?.lua;"..package.path
 
-require ("protobuf.protobuf")
-
-
-require("Protocol.protocol_test")
+require("protocol_test")

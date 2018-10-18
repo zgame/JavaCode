@@ -3,17 +3,15 @@
 --- Created by Administrator.
 --- DateTime: 2018/10/12 15:56
 ---
-print("fffffffffffffffffffffffffffffffffffff")
+
 
 
 --package.path = package.path .. ';protobuf/?.lua'
 --package.cpath = package.cpath .. ';protobuf/?.so'
 
-local user_pb = require('Protocol.build.user_pb')
+local user_pb = require('user_pb')
 --local user_pb = require('user_pb')
 
-
-print("fffffffffffffffffffffffffffffffffffff")
 
 
 local person= user_pb.Friend()
