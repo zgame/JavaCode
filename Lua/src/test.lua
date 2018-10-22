@@ -14,4 +14,9 @@ package.cpath = package.cpath .. ';protobuf/?.dll'
 package.path = "./Protocol/?.lua;"..package.path
 package.path = "./Protocol/build/?.lua;"..package.path
 
-require("protocol_test")
+--require("protocol_test")
+
+
+
+require("metaTable")
+print("ddd")
