@@ -20,3 +20,18 @@ package.path = "./Protocol/build/?.lua;"..package.path
 
 require("metaTable")
 print("ddd")
+
+function ss()
+    zsw = function(name)
+        print("zz", name)
+    end
+end
+
+ss()
+
+zsw1 = zsw
+zsw()
+zsw1(1)
+
+require("func")
+require("test2")
