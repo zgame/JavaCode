@@ -11,3 +11,18 @@ require("test")
 for i=1,5 do
     print(i)
 end
+
+require("dumpTable")
+
+local tt = {}
+table.insert(tt,"d")
+tt[1212] = 23
+tt["33dd"]= "ff"
+
+printTable(tt)
+--table.remove(tt,1)
+tt["33dd"] = nil
+tt[1212] = nil
+tt[1] = nil
+
+printTable(tt)
