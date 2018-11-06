@@ -26,3 +26,16 @@ tt[1212] = nil
 tt[1] = nil
 
 printTable(tt)
+
+
+print("----------------------------------------")
+
+
+math.randomseed(os.time())
+print(math.random(3))
+
+print("----------------------------------------")
+
+print(os.time())
+print(os.time({year =2916, month = 11, day =23, hour =17, min =17, sec = 00}))
+
