@@ -50,3 +50,12 @@ print("----------------------------------------")
 print(os.time())
 print(os.time({year =2916, month = 11, day =23, hour =17, min =17, sec = 00}))
 
+
+
+
+local ss={}
+
+ss[1] = 1
+ss[2]={}
+ss[2].ke = 2
+printTable(ss)
