@@ -22,19 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fb841e8-8b54-4180-92a5-f29b5f0bde6d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Kotlin/out/production/kotlin/META-INF/kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/out/production/kotlin/META-INF/kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Kotlin/out/production/kotlin/zsw/demo/T1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/out/production/kotlin/zsw/demo/T1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lua/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lua/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Scala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Scala/out/production/scala/HelloWorld$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/out/production/scala/HelloWorld$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Scala/out/production/scala/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/out/production/scala/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Scala/out/production/scala/zswobj$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/out/production/scala/zswobj$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Scala/out/production/scala/zswobj.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/out/production/scala/zswobj.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Scala/scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/scala.iml" afterDir="false" />
-    </list>
+    <list default="true" id="9fb841e8-8b54-4180-92a5-f29b5f0bde6d" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +69,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -114,6 +103,7 @@
       <workItem from="1604387109101" duration="992000" />
       <workItem from="1604388122982" duration="12000" />
       <workItem from="1604389353487" duration="2173000" />
+      <workItem from="1604546302920" duration="52000" />
     </task>
     <servers />
   </component>
@@ -157,9 +147,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="399" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604391705209" />
-    <state x="664" y="132" key="SettingsEditor" timestamp="1604389421362">
+    <state x="578" y="132" key="SettingsEditor" timestamp="1604546349794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="664" y="132" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604389421362" />
+    <state x="578" y="132" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604546349794" />
   </component>
 </project>
