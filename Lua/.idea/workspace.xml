@@ -20,9 +20,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e7c6eb0-42f3-4b41-9d5f-e74a1d2c6cdf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin/out/production/kotlin/META-INF/kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/out/production/kotlin/META-INF/kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin/out/production/kotlin/zsw/demo/T1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/out/production/kotlin/zsw/demo/T1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Protocol/build/build.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Protocol/build/plugin/plugin_pb2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Protocol/build/plugin/protoc-gen-lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Protocol/build/plugin/protoc-gen-lua.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Protocol/build/user.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Protocol/build/user_pb.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Protocol/protocol_test.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dumpTable.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/func.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metaTable.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/containers.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/decoder.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/descriptor.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/encoder.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/listener.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/pb.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/protobuf.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/text_format.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/type_checkers.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protobuf/wire_format.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test2.lua" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +81,6 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="866" />
-    <option name="y" value="5" />
-    <option name="width" value="1037" />
-    <option name="height" value="1037" />
-  </component>
   <component name="ProjectId" id="1jlrwE9WK3YHezWjF8aRy2gKQoa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -69,9 +88,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -84,7 +104,7 @@
       <recent name="C:\Users\Administrator\Documents\GitHub\JavaCode\Lua\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Lua Application.test.lua">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -115,6 +135,7 @@
       <option name="params" value="" />
       <option name="charset" value="UTF-8" />
       <option name="showConsole" value="true" />
+      <method v="2" />
     </configuration>
     <configuration name="test.lua" type="lua.app" factoryName="Lua Application">
       <option name="program" value="D:\lua-5.3.4_Win64_bin\lua53.exe" />
@@ -124,6 +145,7 @@
       <option name="params" value="" />
       <option name="charset" value="UTF-8" />
       <option name="showConsole" value="true" />
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -138,6 +160,11 @@
       <option name="presentableId" value="Default" />
       <updated>1523432693393</updated>
       <workItem from="1604389756930" duration="14000" />
+      <workItem from="1607496588843" duration="277000" />
+      <workItem from="1607496883057" duration="96000" />
+      <workItem from="1607496986903" duration="601000" />
+      <workItem from="1607508681495" duration="36000" />
+      <workItem from="1607509073461" duration="121000" />
     </task>
     <servers />
   </component>
@@ -154,89 +181,28 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604389769294">
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607496626559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604389769294" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Unnamed</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>Lua</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>untitled</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607496626559" />
+    <state x="1178" y="291" key="FileChooserDialogImpl" timestamp="1607509194544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1178" y="291" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607509194544" />
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1607508694488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607508694488" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1607496874063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607496874063" />
+    <state x="334" y="130" key="new project wizard" timestamp="1607509196062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607509196062" />
   </component>
 </project>
