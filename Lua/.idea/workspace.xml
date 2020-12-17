@@ -19,36 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e7c6eb0-42f3-4b41-9d5f-e74a1d2c6cdf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/test.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Protocol/build/build.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Protocol/build/plugin/plugin_pb2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Protocol/build/plugin/protoc-gen-lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Protocol/build/plugin/protoc-gen-lua.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Protocol/build/user.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Protocol/build/user_pb.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Protocol/protocol_test.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dumpTable.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/func.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/metaTable.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/containers.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/decoder.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/descriptor.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/encoder.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/listener.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/pb.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/protobuf.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/text_format.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/type_checkers.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/wire_format.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test2.lua" beforeDir="false" />
-    </list>
+    <list default="true" id="6e7c6eb0-42f3-4b41-9d5f-e74a1d2c6cdf" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +62,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java/Spring1/testweb3" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -165,6 +136,7 @@
       <workItem from="1607496986903" duration="601000" />
       <workItem from="1607508681495" duration="36000" />
       <workItem from="1607509073461" duration="121000" />
+      <workItem from="1608197385058" duration="27000" />
     </task>
     <servers />
   </component>
@@ -188,10 +160,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607496626559" />
-    <state x="1178" y="291" key="FileChooserDialogImpl" timestamp="1607509194544">
+    <state x="1178" y="291" key="FileChooserDialogImpl" timestamp="1608197411066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1178" y="291" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607509194544" />
+    <state x="1178" y="291" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608197411066" />
     <state x="540" y="263" key="IDE.errors.dialog" timestamp="1607508694488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
