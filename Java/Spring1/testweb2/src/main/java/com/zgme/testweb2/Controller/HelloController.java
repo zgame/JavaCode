@@ -1,4 +1,5 @@
 package com.zgme.testweb2.Controller;
+
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -16,7 +17,7 @@ public class HelloController {
 
 
     @RequestMapping("/hello")   // 路径映射
-    public String hello(){
+    public String hello() {
         return "Hello Spring Boot!  " + name + " : " + age;
     }
 
